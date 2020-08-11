@@ -1,2 +1,2 @@
 project_id  = "personal-ssoboliev-pr"                  
-bucket_name = "personal-cv-bucket"   
+bucket_name = "cv.ssoboliev.com"   
